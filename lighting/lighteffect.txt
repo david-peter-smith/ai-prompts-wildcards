@@ -23,3 +23,14 @@ floor lighting
 spot light
 stage lighting
 strong lighting with Selective visibility
+volumetric lighting
+white light
+backlight, light from behind
+light rays
+side lighting
+shadows on face
+dramatic sparks
+silhoutte lighting
+fiery smoke all around
+gentle light
+candle light
