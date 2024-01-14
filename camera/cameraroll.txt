@@ -1,0 +1,8 @@
+90 degree camera tilt to left, sideways to left
+45 degree camera tilt to left, canted shot to left, dutch shot to left
+15 degree camera tilt to left, slightly canted to left
+level photograph, perfectly level
+15 degree camera tilt to right, slightly canted to right
+45 degree camera tilt to right, canted shot to right, dutch shot to right
+90 degree camera tilt to right, sideways to right
+180 degree camera tilt, upside down

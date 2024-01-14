@@ -1,0 +1,173 @@
+bedroom, bed
+kitchen, kitchen table
+kitchen counter
+kitchen island
+dining room
+study
+livingroom, living room
+couch
+chair
+coffee table
+window
+window seat
+bathroom
+bath
+shower
+toilet
+laundry room
+hallway
+garage
+backyard
+frontyard
+garden
+Spring Garden
+greenhouse
+Rooftop Gardens
+staircase
+patio
+Community Gardens
+arboretum
+luxury suites
+loft
+cabin
+park
+tent
+campground
+cliff overlook
+japanese house
+italian villa
+french chateau
+ally, allyway
+temple
+college
+school
+church
+Cathedral
+Distillery
+brewery
+winery
+museum
+libray
+Cultural Festival
+Memorial
+Monument
+cemetery
+Bridge
+Tunnels
+Observatory
+Roadside Attraction
+Village
+Airport
+Ferry
+boat
+ship
+Train Station
+Animal Shelter
+Abandoned mall
+Abandoned Amusement Park
+Abandoned house
+Abandoned building
+Aquariums
+Historic Downtown
+Public Libraries
+private Libraries
+bookstore
+costume shop
+bath house
+hot tub, Jacuzzi
+pool
+ocean
+coffee shop
+restraunt
+office
+skyscraper
+Construction site
+junkyard
+Suburban Street
+Retro Diner
+Laundromat
+mechanic shop
+ruins
+picnic
+desert
+sand dunes
+field
+forest
+forest path
+hiking trail
+cross road
+road
+freeway
+street
+spaceship
+spacestation
+outerspace
+moon
+alien world
+underground
+cave
+glacier
+antartica
+medow
+mountain
+island
+tropical island
+jungle
+Desert Oases
+Rainforests
+swamp
+bamboo forest
+beach
+shoreline
+tidepool, tide pool
+jetty
+dock
+peir
+lake
+river
+riverside
+pond
+fountian
+city
+city street
+grand canyon
+pyramids
+outdoor market
+Street Markets
+farmers market
+car
+truck
+plane
+hot air baloon
+back of truck
+Palace
+castle
+rooftop
+Graffiti Walls
+Warehouses
+Subways
+Cafe
+Historic Inn
+hotel
+bed and breakfast
+Kayak
+Canoe
+rapids
+Harvest Fields
+farms
+wheat field
+corn field
+New Year's Eve Celebration
+fire station
+police station
+
+
+
+
+
+
+
+
+
+
+

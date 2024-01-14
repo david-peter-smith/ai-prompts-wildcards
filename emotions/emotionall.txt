@@ -1,0 +1,85 @@
+annoyed expression, annoyed expression
+frustrated expression, frustrated expression
+bitter expression, bitter expression
+infuriated expression, infuriated expression
+mad expression, mad expression
+insulted expression, insulted expression
+vengeful expression, vengeful expression
+angry expression, angry expression
+afraid expression, afraid expression
+alarmed expression, alarmed expression
+depressed expression, depressed expression
+bored expression, bored expression
+tired expression, tired expression
+apprehension expression, apprehension expression
+amazement expression, amazement expression
+grief expression, grief expression
+loathing expression, loathing expression
+rage expression, rage expression
+terror expression, terror expression
+annoyance expression, annoyance expression
+boredom expression, boredom expression
+pensiveness expression, pensiveness expression
+distraction expression, distraction expression
+insulted expression, insulted expression
+infuriated expression, infuriated expression
+irritable expression, irritable expression
+dislike expression, dislike expression
+revulsion expression, revulsion expression
+nauseated expression, nauseated expression
+aversion expression, aversion expression
+offended expression, offended expression
+horrified expression, horrified expression
+worried expression, worried expression
+nervous expression, nervous expression
+anxious expression, anxious expression
+scared expression, scared expression
+panicked expression, panicked expression
+stressed expression, stressed expression
+winking, winking expression
+playful emotions, playful expression
+longing emotions, longing expression
+sticking tounge out, tounge expression
+happy, enjoyment, happy expression
+smiling, smiling expression
+((huge smile))
+biting lip smiling, biting lip and smiling expression
+biting lip, biting lip expression
+love emotions, loving expression
+suprise emotions, suprise emotions expression
+pleasure emotions, pleasure expressions
+joyful emotions, joyful expression
+ecstasy emotions, ecstasy expression
+awe emotions, awe expression
+amusement emotions, amusement expression
+pride emotions, proud expression
+excited emotions, excited expression
+delighted emotions, delighted expression
+astonished emotions, astonished expression
+pleased emotions, pleased expression
+contentment emotions, contentment expression
+relaxed emotions, relaxed expression
+calm emotions, calm expression
+energetic emotions, energetic expression
+admiration emotions, admiration expression
+trusting emotions, trusting expression
+acceptance emotions, acceptance expression
+serenity emotions, serenity expression
+vigilance emotions, vigilance expression
+anticipation emotions, anticipation expression
+interest emotions, interest expression
+adoration emotions, adoration expression
+affection emotions, affection expression
+jealousy emotions, jealousy expression
+joviality emotions, joviality expression
+liking emotions, liking expression
+kind emotions, kind expression
+lust emotions, lust expression
+assertive emotions, assertive expression
+cheerfulness emotions, cheerfulness expression
+submissive emotions, submissive expression
+lonely emotion,lonely expression
+unhappy emotion,unhappy expression
+hopeless emotion,hopeless expression
+gloomy emotion,gloomy expression
+miserable emotion,miserable expression

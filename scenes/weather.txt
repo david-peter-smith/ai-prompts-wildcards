@@ -1,0 +1,20 @@
+sunny, clear day
+partially cloudy
+cloudy
+overcast
+rain
+drizzle
+snow
+raining hail
+raining
+pouring rain
+mist
+fog
+hazy
+hurricane
+sandstorm
+stormy
+icestorm
+frost
+snowing
+blizzard

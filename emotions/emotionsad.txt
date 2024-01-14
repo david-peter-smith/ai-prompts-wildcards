@@ -1,0 +1,5 @@
+lonely emotion,lonely expression
+unhappy emotion,unhappy expression
+hopeless emotion,hopeless expression
+gloomy emotion,gloomy expression
+miserable emotion,miserable expression

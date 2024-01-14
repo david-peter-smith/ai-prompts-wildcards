@@ -1,0 +1,11 @@
+90° angle, 90 degree angle, top down view, straight down view
+65° angle, 65 degree angle, birds eye, bird's eye, birds eye view
+45° angle, 45 degree angle, high angle view, high angle shot
+30° angle, 30 degree angle, above view angle, above view, above shot
+15° angle, 15 degree angle, slightly above, slightly above angle
+0° angle, 0 degree angle, straight on, eye-level view, eye level view, eye level shot, eye level, eye level camera height
+-15° angle, -15 degree angle, hero view, hero angle, slightly below, chest level, chest level camera height
+-30° angle,-30 degree angle, low view, low angle view, low angle shot, waist level, waist level camera height, hip level
+-45° angle, -45 degree angle, extreme low view, knee level view camera height, knee-level camera height
+-75° angle, -75 degree angle, worms eye, worm's eye view, worms eye angle, worm's eye shot
+-90° angle,-90 degree angle, from below, foot level view camera height, foot-level view, floor level view, foot level view camera, foot level view camera, floor level view camera
