@@ -1,6 +1,6 @@
 perfectly lit, lab lighting, fully lit, strong light
 fairy lights
-bokeh backgroun 
+bokeh background
 blurred background
 lens flare
 soft shadows
