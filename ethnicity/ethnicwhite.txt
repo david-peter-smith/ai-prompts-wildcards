@@ -1,4 +1,5 @@
 American
+Australian
 Canadian
 Irish
 Scottish
@@ -10,6 +11,7 @@ Polish
 Sweedish
 Danish
 Dutch
+Austrian
 German
 Icelandic
 Luxembourgish
@@ -21,3 +23,5 @@ Greek
 Spaniard
 Hungarian
 Russian
+New Zealander
+Swiss
